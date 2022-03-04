@@ -1,2 +1,1 @@
-#!/bin/bash
-ls -pamv
+#!/bin/bash\n ls -pam v
