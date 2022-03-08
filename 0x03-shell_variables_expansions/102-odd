@@ -1,0 +1,2 @@
+#!bin/bash
+echopaste -d, - - | cut -d, -f1
