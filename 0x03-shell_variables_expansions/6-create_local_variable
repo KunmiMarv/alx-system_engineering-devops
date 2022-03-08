@@ -1,2 +1,2 @@
 #!/bin/bash
-echo BETTY="BEST SCHOOL"
+BETTY="BEST SCHOOL"
